@@ -58,12 +58,13 @@ To run LearnX locally on your machine, follow the installation and usage instruc
 
 ## Technologies Used
 
--React.js: Front-end library for building user interfaces.
--Redux: State management library for managing application state and API data.
--JSON Server: A lightweight fake REST API server that serves as the backend for simulating API requests and responses.
--HTML5: Markup language for creating the website's structure.
--CSS3: Styling language for designing the website's layout and appearance.
--JavaScript: Programming language for implementing interactive features.
+- React.js: Front-end library for building user interfaces.
+- Redux: State management library for managing application state and API data.
+- JSON Server: A lightweight fake REST API server that serves as the backend for simulating API requests and responses.
+- HTML5: Markup language for creating the website's structure.
+- CSS3: Styling language for designing the website's layout and appearance.
+- JavaScript: Programming language for implementing interactive features.
+
 With this setup, we'll use Redux to manage the application state, including data fetched from the JSON Server, which will act as a mock backend for our E-learning website.
 
 Remember that this approach is suitable for development and testing purposes but not for production use. In a real-world scenario, you would replace the JSON Server with a real backend built using technologies like Express.js and MongoDB or any other suitable database system.
